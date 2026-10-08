@@ -1,0 +1,5 @@
+nome = input("Nome do Jogador: ")
+time = input("Time do Jogador: ")
+idade = input("Idade do Jogador: ")
+numero = input("Número do Jogador: ")
+print("O jogador", nome, "tem" , idade , "anos, joga no" ,time, "e usa a camisa número" , numero)

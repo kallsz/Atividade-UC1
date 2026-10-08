@@ -1,0 +1,7 @@
+nome = input("Nome do Aluno: ")
+idade = int(input("Idade do Aluno: "))
+turma = input("Turma do Aluno: ")
+print("\nFICHA DO ALUNO")
+print("Nome:", nome)
+print("Idade:", idade)
+print("Turma:", turma)
